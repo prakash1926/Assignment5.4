@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\bin\Debug\ConsoleAppAssignment-4.exe.config
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\bin\Debug\ConsoleAppAssignment-4.exe
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\bin\Debug\ConsoleAppAssignment-4.pdb
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\obj\Debug\ConsoleAppAssignment-4.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\obj\Debug\ConsoleAppAssignment-4.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\obj\Debug\ConsoleAppAssignment-4.exe
+C:\Users\abdul\source\repos\day4\ConsoleAppAssignment-4\ConsoleAppAssignment-4\obj\Debug\ConsoleAppAssignment-4.pdb
